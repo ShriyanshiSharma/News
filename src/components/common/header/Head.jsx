@@ -7,7 +7,7 @@ const Head = () => {
     return(
         <>
         <section className='head'>
-        <div className='container flexSB paddingTB'>
+        <div className='container flexSBC paddingTB'>
           <div className='logo'>
             <img src={logo} alt='logo' />
           </div>

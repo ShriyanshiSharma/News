@@ -1,6 +1,7 @@
 export const data = [
     {
         id:1,
+        catego:"Bitcoin",
         heading:"PayPal enables transfer of digital currencies to external wallets",
         img:"https://coinjournal.net/wp-content/uploads/2020/10/03_Image-of-Bitcoin-and-PayPal.jpg",
         discription:"The move comes after nearly two years since PayPal enabled users to buy and sell crypto on its platform.",
@@ -14,9 +15,9 @@ export const data = [
     },
     {
         id:2,
-
+        catego:"Bitcoin",
         heading:"Italian Parliament Approves 26% Crypto-Gains Tax in 2023 Budget",
-        img:"https://coinjournal.net/wp-content/uploads/2020/10/03_Image-of-Bitcoin-and-PayPal.jpg",
+        img:"https://cdn.coingape.com/wp-content/uploads/2022/12/01093307/italy-cryptocurrency-tax.jpeg",
         discription:"Prime Minister Giorgia Meloni's new bill also includes an incentive for those declaring crypto for tax purposes.",
         details:{
             p1:"After rolling out the ability to buy and sell crypto on its platform in October 2020, PayPal is finally allowing users the ability to natively transfer, send and receive digital assets between PayPal and other wallets and exchanges. As of Tuesday, the feature is available to select U.S. users, with the feature expanding to all eligible U.S. users in the coming weeks. The first batch of supported coins consists of Bitcoin",
@@ -28,10 +29,10 @@ export const data = [
     },
     {
         id:3,
-
-        heading:"PayPal enables transfer of digital currencies to external wallets",
-        img:"https://coinjournal.net/wp-content/uploads/2020/10/03_Image-of-Bitcoin-and-PayPal.jpg",
-        discription:"The move comes after nearly two years since PayPal enabled users to buy and sell crypto on its platform.",
+        catego:"Bitcoin",
+        heading:" Microstrategy Buys More Bitcoin — Company's Crypto Holdings Grow to 132,500 BTC",
+        img:"https://cdn.coingape.com/wp-content/uploads/2022/09/20182530/MicroStrategy1.jpg",
+        discription:"Microstrategy Acquires More Bitcoin",
         details:{
             p1:"After rolling out the ability to buy and sell crypto on its platform in October 2020, PayPal is finally allowing users the ability to natively transfer, send and receive digital assets between PayPal and other wallets and exchanges. As of Tuesday, the feature is available to select U.S. users, with the feature expanding to all eligible U.S. users in the coming weeks. The first batch of supported coins consists of Bitcoin",
             p2:"BTC $16,704, Ether  ETH $1,217, Bitcoin Cash BCH $100, and Litecoin LTC $74.58.  In addition, customers who transfer their crypto onto PayPal can spend it via Checkout at millions of merchant terminals. The company has been granted a full Bitlicense by the New York Department of Financial Services for the conduct.",
@@ -42,9 +43,9 @@ export const data = [
     },
     {
         id:4,
-
-        heading:"PayPal enables transfer of digital currencies to external wallets",
-        img:"https://coinjournal.net/wp-content/uploads/2020/10/03_Image-of-Bitcoin-and-PayPal.jpg",
+        catego:"Bitcoin",
+        heading:"Bitcoin Miners’ Revenue Hits $9.55 Billion in 2022 ",
+        img:"https://www.quotecolo.com/wp-content/uploads/2020/05/bitcoin-cloud-mining.jpg",
         discription:"The move comes after nearly two years since PayPal enabled users to buy and sell crypto on its platform.",
         details:{
             p1:"After rolling out the ability to buy and sell crypto on its platform in October 2020, PayPal is finally allowing users the ability to natively transfer, send and receive digital assets between PayPal and other wallets and exchanges. As of Tuesday, the feature is available to select U.S. users, with the feature expanding to all eligible U.S. users in the coming weeks. The first batch of supported coins consists of Bitcoin",
@@ -56,9 +57,9 @@ export const data = [
     },
     {
         id:5,
-
-        heading:"PayPal enables transfer of digital currencies to external wallets",
-        img:"https://coinjournal.net/wp-content/uploads/2020/10/03_Image-of-Bitcoin-and-PayPal.jpg",
+        catego:"pMarket",
+        heading:"Mango Markets Exploiter Eisenberg Arrested in Puerto Rico",
+        img:"https://www.cryptonewsz.com/wp-content/uploads/2022/12/Mango-Markets-Exploiter-Arrested-In-Puerto-Rico-300x181.jpg",
         discription:"The move comes after nearly two years since PayPal enabled users to buy and sell crypto on its platform.",
         details:{
             p1:"After rolling out the ability to buy and sell crypto on its platform in October 2020, PayPal is finally allowing users the ability to natively transfer, send and receive digital assets between PayPal and other wallets and exchanges. As of Tuesday, the feature is available to select U.S. users, with the feature expanding to all eligible U.S. users in the coming weeks. The first batch of supported coins consists of Bitcoin",

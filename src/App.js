@@ -2,6 +2,7 @@ import './App.css';
 import Header from './components/common/header/Header';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 import Homepages from './components/home/Homepages';
+import Footer from './components/common/footer/Footer';
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
           {/* <Route path='/singlepage/:id' exact element={<SinglePage/>} /> */}
           {/* <Route exact path='/culture' element={<Culture/>} /> */}
         </Routes>
-        {/* <Footer /> */}
+        <Footer />
       </Router>
     </>
   );

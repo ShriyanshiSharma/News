@@ -57,7 +57,7 @@ export const data = [
     },
     {
         id:5,
-        catego:"pMarket",
+        catego:"Stock",
         heading:"Mango Markets Exploiter Eisenberg Arrested in Puerto Rico",
         img:"https://www.cryptonewsz.com/wp-content/uploads/2022/12/Mango-Markets-Exploiter-Arrested-In-Puerto-Rico-300x181.jpg",
         discription:"The move comes after nearly two years since PayPal enabled users to buy and sell crypto on its platform.",

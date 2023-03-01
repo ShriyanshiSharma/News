@@ -23,6 +23,29 @@ a {
   text-decoration: none;
 }
 /*-----------global-----------*/
+.common{
+  margin-left: 5%;
+  margin-top: 3%;
+}
+.common h1:hover{
+  color: red;
+}
+.news{
+  background-color: #fb4c35;
+  padding: 6px 0px 3px 0px  ;
+  font-size:medium;
+  color: #fff;
+}
+.mar{
+  display: inline;
+  text-decoration: none;
+  color: #fff;
+}
+.mar .space{
+  margin-left: 22px;
+  margin-right: 5px;
+}
+
 .container {
   max-width: 90%;
   margin: auto;
@@ -117,3 +140,4 @@ a {
 }
 
 /*-----------global-----------*/
+

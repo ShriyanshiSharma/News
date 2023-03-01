@@ -13,11 +13,9 @@ const Header = () => {
                 <nav>
                 <ul className={navbar ? "navbar" : "flex"} onClick={() => setNavbar(false)}>
                         <li><Link to='/'>Home</Link></li>
-                        <li><Link to='/bitcoins'>Bitcoin</Link></li>
-                        <li><Link to='/sports'>Sports</Link></li>
-                        <li><Link to='/stocks'>Stocks</Link></li>
-                        {/* <li><Link to='/reviews'>Reviews</Link></li> */}
-
+                        <li><Link to='/Bitcoin'>Bitcoin</Link></li>
+                        <li><Link to='/Sport'>Sports</Link></li>
+                        <li><Link to='/Stock'>Stocks</Link></li>
                     </ul>
                     <button className='barIcon' onClick={() => setNavbar(!navbar)}>
                         {navbar ? <i className='fa fa-times'></i> : <i className='fa fa-bars'></i>}

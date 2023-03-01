@@ -8,6 +8,7 @@ import Sports from './components/pages/Sport';
 import Single from './components/pages/Single';
 import Bitcoin from './components/pages/Bitcoin';
 import News from './components/common/header/News';
+import More from './components/pages/More/More';
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
           <Route exact path='/Sport' element={<Sports/>} />
           <Route exact path='/Stock' element={<Stock/>} />
         </Routes>
+        <More/>
         <Footer />
       </Router>
     </>

@@ -16,7 +16,7 @@ const Single = () => {
 
     return(
         <>
-        {item ?
+        {item ?<>
         <main>
             <div className='container'>
                <section className='details'>
@@ -29,11 +29,15 @@ const Single = () => {
                    <p>{item.details.p3}</p>
                    <p>{item.details.p4}</p>
                    <p>{item.details.p5}</p>
+                   <p>{item.details.p6}</p>
+                   <p>{item.details.p7}</p>
+                   <p>{item.details.p8}</p>
+                   <p>{item.details.p9}</p>
                    </div>
-
                 </section>
             </div>
         </main>
+        </>
         :(<h1>not found</h1>)}
         </>
     );

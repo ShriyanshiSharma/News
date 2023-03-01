@@ -5,14 +5,11 @@ import {data } from '../../data';
 import { useState } from 'react';
 
 const Stock = () => {
- 
-        const [item,setItems] = useState(data)
-
-    
-return(
+    const [item,setItems] = useState(data)  
+    return(
     <>
     <div className="common">
-        <h1>Bitcoin News</h1>
+        <h1>Stocks News</h1>
         {
             data.map((item) => {
                 return<>
@@ -26,6 +23,6 @@ return(
         }
     </div>
     </>
-);
+    );
 }
 export default Stock;

@@ -5,8 +5,6 @@ import {data } from '../../data';
 
 const Bitcoin = () => {
     const [item,setItems] = useState(data)
-
-    
     return(
         <>
         <div className="common">

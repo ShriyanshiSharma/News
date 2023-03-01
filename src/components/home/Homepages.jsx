@@ -1,10 +1,10 @@
 import React from "react";
-import Hero from "./hero/Hero";
+import Data from "./data/Data";
 
 const Homepages = () => {
     return(
         <>
-        <Hero/>
+        <Data/>
         </>
     );
 }

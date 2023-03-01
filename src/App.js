@@ -8,7 +8,7 @@ import Sports from './components/pages/Sport';
 import Single from './components/pages/Single';
 import Bitcoin from './components/pages/Bitcoin';
 import News from './components/common/header/News';
-import More from './components/pages/More/More';
+import More from './components/common/more/More';
 
 
 function App() {

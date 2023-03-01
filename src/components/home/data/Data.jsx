@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import {data} from "../../../data";
 import Card from "./Card";
-import './hero.css'
+import './data.css'
 
-const Hero = () => {
+const Data = () => {
     const [itmes,setItems] = useState(data)
     return(
         <>
@@ -21,4 +21,4 @@ const Hero = () => {
     );
 }
 
-export default Hero;
+export default Data;

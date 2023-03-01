@@ -12,7 +12,7 @@ const Header = () => {
             <div className='container paddingSmall'>
                 <nav>
                 <ul className={navbar ? "navbar" : "flex"} onClick={() => setNavbar(false)}>
-                        <li><Link to='/'>Home</Link></li>
+                        <li><Link to='/News'>Home</Link></li>
                         <li><Link to='/Bitcoin'>Bitcoin</Link></li>
                         <li><Link to='/Sport'>Sports</Link></li>
                         <li><Link to='/Stock'>Stocks</Link></li>

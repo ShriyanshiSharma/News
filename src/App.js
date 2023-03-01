@@ -18,7 +18,7 @@ function App() {
         <Header />
         <News/>
         <Routes> 
-          <Route exact path='/' element={<Homepages/>} />
+          <Route exact path='/News' element={<Homepages/>} />
           <Route path='/Single/:id' exact element={<Single/>} />
           <Route exact path='/Bitcoin' element={<Bitcoin/>} />
           <Route exact path='/Sport' element={<Sports/>} />
